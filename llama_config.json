@@ -1,0 +1,1 @@
+{"model_url": "https://huggingface.co/TheBloke/Llama-2-7B-chat-GGUF/resolve/main/llama-2-7b-chat.Q4_0.gguf", "model_path": null, "temperature": 0.1, "max_new_tokens": 256, "context_window": 3900, "generate_kwargs": {}, "model_kwargs": {"n_gpu_layers": 1}, "verbose": true}
